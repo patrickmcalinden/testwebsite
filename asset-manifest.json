@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2cdf1fa.css",
-    "main.js": "/static/js/main.d8c75658.js",
-    "static/media/video2.mp4": "/static/media/video2.7a7daf7cc31aec67d141.mp4",
-    "static/media/trip_Match.svg": "/static/media/trip_Match.8316df98aa38c11c7a67ad14a191a44a.svg",
-    "static/media/login.jpeg": "/static/media/login.39fff7166347e582c37c.jpeg",
-    "static/media/explore.svg": "/static/media/explore.d9a686160044769ef034a8d792392fda.svg",
-    "static/media/savings.svg": "/static/media/savings.ec82d30121ac56b244c9e5cfb2752178.svg",
-    "static/media/worldPeople.svg": "/static/media/worldPeople.719e8cd22366b29087c9e24248728efc.svg",
-    "static/media/location_Info.svg": "/static/media/location_Info.dc2c72f925a4d09e8ba56807b06e7387.svg",
-    "static/media/flight_Booking.svg": "/static/media/flight_Booking.0893088e3fe8bb1e0d0d70505cb0d523.svg",
-    "index.html": "/index.html",
-    "main.b2cdf1fa.css.map": "/static/css/main.b2cdf1fa.css.map",
-    "main.d8c75658.js.map": "/static/js/main.d8c75658.js.map"
+    "main.css": "/testwebsite/static/css/main.b2cdf1fa.css",
+    "main.js": "/testwebsite/static/js/main.4da4a5dd.js",
+    "static/media/video2.mp4": "/testwebsite/static/media/video2.7a7daf7cc31aec67d141.mp4",
+    "static/media/trip_Match.svg": "/testwebsite/static/media/trip_Match.8316df98aa38c11c7a67ad14a191a44a.svg",
+    "static/media/login.jpeg": "/testwebsite/static/media/login.39fff7166347e582c37c.jpeg",
+    "static/media/explore.svg": "/testwebsite/static/media/explore.d9a686160044769ef034a8d792392fda.svg",
+    "static/media/savings.svg": "/testwebsite/static/media/savings.ec82d30121ac56b244c9e5cfb2752178.svg",
+    "static/media/worldPeople.svg": "/testwebsite/static/media/worldPeople.719e8cd22366b29087c9e24248728efc.svg",
+    "static/media/location_Info.svg": "/testwebsite/static/media/location_Info.dc2c72f925a4d09e8ba56807b06e7387.svg",
+    "static/media/flight_Booking.svg": "/testwebsite/static/media/flight_Booking.0893088e3fe8bb1e0d0d70505cb0d523.svg",
+    "index.html": "/testwebsite/index.html",
+    "main.b2cdf1fa.css.map": "/testwebsite/static/css/main.b2cdf1fa.css.map",
+    "main.4da4a5dd.js.map": "/testwebsite/static/js/main.4da4a5dd.js.map"
   },
   "entrypoints": [
     "static/css/main.b2cdf1fa.css",
-    "static/js/main.d8c75658.js"
+    "static/js/main.4da4a5dd.js"
   ]
 }
